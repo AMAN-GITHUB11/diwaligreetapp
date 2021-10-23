@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">diwaligreet</string>
+    <string name="textview">TextView</string>
+    <string name="click">click</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="todo">TODO</string>
+</resources>
